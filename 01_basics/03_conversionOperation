@@ -11,3 +11,9 @@ console.log(valueInNum)
 let num=1
 let numInBoolean=Boolean(num)
 console.log(numInBoolean)
+
+let someNum=33
+
+let stringInNum=String(someNum)
+console.log(stringInNum)
+console.log(typeof stringInNum)
