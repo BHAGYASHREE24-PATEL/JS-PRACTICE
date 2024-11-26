@@ -1,0 +1,14 @@
+var a=22;
+// console.log(a);
+const accountId="01123";
+// console.log(accountId);
+let accountEmail="Tiki@gmail.com";
+// console.log(accountEmail);
+a=9
+b=10
+let c;
+console.table([a,b,c,accountId,accountEmail]);
+
+
+/* prefer not to use var
+because of issue in block scope and functional scope*/
